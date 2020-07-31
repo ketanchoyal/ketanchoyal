@@ -1,9 +1,11 @@
 ## Hi there 👋       
 
 - 🔭 I’m currently working on Freelance Projects
-- 🌱 I’m currently learning all I can
-- 👯 I’m looking to collaborate on ...(Still looking)
+- 🌱 I’m currently learning Swift UI
+- 👯 I’m looking to collaborate on Flutter Open-Source project!
+- 🤔 I’m looking for help with, Meanwhile Nothing 🚀
 - 💬 Ask me about Flutter😎
+- ⚡ Fun fact: I prefer hackintosh more than a real Mac 🖥
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanchoyal" alt="ketanchoyal" /> </p>
 
 ---
