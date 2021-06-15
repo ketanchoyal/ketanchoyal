@@ -8,10 +8,10 @@
 - ⚡ Fun fact: I prefer hackintosh more than a real Mac 🖥
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketanchoyal" alt="ketanchoyal" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanchoyal&hide=javascript,objective-c&layout=compact&theme=dracula)]()
-
 [![Ketan's github stats](https://github-readme-stats.vercel.app/api?username=ketanchoyal&&show_icons=true&count_private=true&theme=dracula)]()
+![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ketanchoyal&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanchoyal&hide=javascript,objective-c&layout=compact&theme=dracula)]()
 ---
 
 <p align="center">
