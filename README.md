@@ -1,6 +1,6 @@
 ## Hi there 👋       
 
-- 🔭 I’m currently working on Freelance Projects
+- 🔭 I’m currently working as Flutter Developer.
 - 🌱 I’m currently learning Swift UI
 - 👯 I’m looking to collaborate on Flutter Open-Source project!
 - 🤔 I’m looking for help with, Meanwhile Nothing 🚀
