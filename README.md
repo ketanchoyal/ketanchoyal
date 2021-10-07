@@ -1,7 +1,7 @@
 ## Hi there 👋       
 
 - 🔭 I’m currently working as Flutter Developer.
-- 🌱 I’m currently learning Swift UI
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Flutter Open-Source project!
 - 🤔 I’m looking for help with, Meanwhile Nothing 🚀
 - 💬 Ask me about Flutter😎
