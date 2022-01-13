@@ -1,9 +1,9 @@
 ## Hi there 👋       
 
 - 🔭 I’m currently working as Flutter Developer.
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning React and Shopify
 - 👯 I’m looking to collaborate on Flutter Open-Source project! 🚀
-- 🤔 I’m looking for help with, meanwhile nothing 
+- 🤔 I’m looking for help with.., meanwhile nothing 
 - 💬 Ask me about Flutter😎
 - ⚡ Fun fact: I prefer hackintosh more than a real Mac 🖥
 <p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=ketanchoyal" alt="ketanchoyal" /> <a> &emsp;&emsp;&emsp; </a><a href="https://twitter.com/ketanchoyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ketanchoyal" height="20" width="20" /></a>
