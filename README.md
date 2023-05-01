@@ -14,8 +14,8 @@
 
 
 ---
-[![Ketan's github stats](https://github-readme-stats.vercel.app/api?username=ketanchoyal&&show_icons=true&count_private=true&theme=dracula)]()
+[![Ketan's github stats](https://github-readme-stats-five-tau-29.vercel.app/api?username=ketanchoyal&&show_icons=true&count_private=true&theme=dracula)]()
 
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ketanchoyal&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketanchoyal&hide=javascript,objective-c&layout=compact&theme=dracula)]()
+[![Top Langs](https://github-readme-stats-five-tau-29.vercel.app/api/top-langs/?username=ketanchoyal&hide=javascript,objective-c&layout=compact&theme=dracula)]()
