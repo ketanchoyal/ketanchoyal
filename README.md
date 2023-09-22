@@ -1,8 +1,8 @@
 ## Hi there 👋       
 
-- 🔭 I’m currently working as Flutter Developer and Backend Developer.
-- 🌱 I’m currently learning Serverless Framework
-- 👯 I’m looking to collaborate on Flutter Open-Source project! 🚀
+- 🔭 I’m currently working as a Full Stack Developer.
+- 🌱 I’m currently learning new AWS Services
+- 👯 I’m looking to collaborate on the Flutter Open-Source project! 🚀
 - 💬 Ask me about Flutter😎
 <p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=ketanchoyal" alt="ketanchoyal" /> </p>
 
