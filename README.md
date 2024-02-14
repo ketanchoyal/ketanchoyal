@@ -1,6 +1,6 @@
 ## Hi there 👋       
 
-- 🔭 I’m currently working as a Full Stack Developer.
+- 🔭 I’m currently working as a Sr. Full Stack Developer.
 - 🌱 I’m currently learning new AWS Services
 - 👯 I’m looking to collaborate on the Flutter Open-Source project! 🚀
 - 💬 Ask me about Flutter😎
