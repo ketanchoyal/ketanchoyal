@@ -19,3 +19,5 @@
 ![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ketanchoyal&theme=dracula)
 
 [![Top Langs](https://github-readme-stats-five-tau-29.vercel.app/api/top-langs/?username=ketanchoyal&hide=javascript,objective-c&layout=compact&theme=dracula)]()
+
+![Wakatime](https://wakatime.com/share/@ketanchoyal/03e70f44-07af-458a-a11f-f08d8e810c76.svg)
