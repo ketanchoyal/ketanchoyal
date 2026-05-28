@@ -1,9 +1,7 @@
 ## Hi there 👋       
 
-- 🔭 I’m currently working as a Sr. Full Stack Developer.
-- 🌱 I’m currently learning new AWS Services
-- 👯 I’m looking to collaborate on the Flutter Open-Source project! 🚀
-- 💬 Ask me about Flutter😎
+- 🔭 Sr. Full Stack Developer working with various technologies
+- 💻 Currently I am teaching AI how to do my work
 <p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=ketanchoyal" alt="ketanchoyal" /> </p>
 
 ## 🌐 Socials
